@@ -1,7 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amritxyz&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=beeplap&label=Profile%20views&color=0e75b6&style=flat" alt="beeplap" /> </p>
 
-- https://komarev.com/ghpvc/?username=amritxyz
-+ https://komarev.com/ghpvc/?username=beeplap
+
 
 
 <h1 align="left">Hi, I'm Beeplap!</h1>
@@ -16,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006.<br>📚 I'm currently learning Lua, Rust.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
+<p align="left">✨ Creating bugs since 2005.<br>📚 I'm currently learning Lua, Rust.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
 
 ###
 
@@ -25,24 +24,23 @@
 ###
 
 <div align="left">
-<!--
-  <a href="https://www.facebook.com/amrit.bhattarai.3344/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100069332372121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
-  <a href="https://www.instagram.com/amrit.010/" target="_blank">
+  <a href="https://www.instagram.com/beeplap___/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
-  </a> -->
-  <a href="https://www.linkedin.com/in/amrit-bhattarai-30ab42323/" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/beeplap-gharti-magar-5027592b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
-  <a href="https://www.patreon.com/nyxvoid" target="_blank">
+<!--   <a href="https://www.patreon.com/nyxvoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="" alt="patreon logo"  />
-  </a>
-  <a href="https://dev.to/nyx-void" target="_blank">
+  </a> -->
+<!--   <a href="https://dev.to/nyx-void" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="" alt="devto logo"  />
   </a>
   <a href="https://ko-fi.com/void44404#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
@@ -87,7 +85,7 @@
 
 ###
 
-<img  src="https://raw.githubusercontent.com/amritxyz/amritxyz/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/beeplap/beeplap/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
 ###
 
@@ -96,11 +94,11 @@
 ###
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amritxyz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=beeplap&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="left">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amritxyz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=beeplap&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <div align="left">
