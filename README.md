@@ -32,15 +32,7 @@
   <a href="https://www.linkedin.com/in/beeplap-gharti-magar-5027592b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
-<!--   <a href="https://www.patreon.com/nyxvoid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="" alt="patreon logo"  />
-  </a> -->
-<!--   <a href="https://dev.to/nyx-void" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="" alt="devto logo"  />
-  </a>
-  <a href="https://ko-fi.com/void44404#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  />
-  </a> -->
+
 </div>
 
 ###
