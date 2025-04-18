@@ -8,7 +8,6 @@
 
 
 
-<h1 align="left">Hi, I'm Beeplap!</h1>
 
 ###
 
