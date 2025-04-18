@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005.<br>📚 I'm currently learning Lua, Rust.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
+<p align="left">💫 Creating bugs since 2005.<br>📚 I'm currently learning Python, Advanced Java.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact:“Hello, World!” has been greeting programmers since 1978.</p>
 
 ###
 
