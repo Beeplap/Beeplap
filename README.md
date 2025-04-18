@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+Beeplap+👋;Welcome+to+my+GitHub+profile;I+break+code+to+build+cool+stuff!" alt="Typing SVG" />
+</p>
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beeplap&label=Profile%20views&color=0e75b6&style=flat" alt="beeplap" /> </p>
 
 
