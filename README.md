@@ -10,6 +10,10 @@
 
 
 ###
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Beeplap&label=Profile%20views&color=0e75b6&style=flat" alt="Beeplap" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Beeplap" alt="Beeplap" /></a>
+</p>
 
 <p align="left">I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code.</p>
 
