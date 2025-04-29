@@ -10,9 +10,7 @@
 
 
 ###
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Beeplap" alt="Beeplap" /></a>
-</p>
+
 
 <p align="left">I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code.</p>
 
