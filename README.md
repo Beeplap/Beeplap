@@ -3,10 +3,9 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=beeplap&label=Profile%20views&color=0e75b6&style=flat" alt="beeplap" /> </p>
+ <p align="right"> <img align="center" src="https://komarev.com/ghpvc/?username=Beeplap&label=%F0%9F%95%B5%EF%B8%8F%20Log%20Entry%20Tracker&color=7719da&style=flat" alt="Beeplap" />
 
-
-
+</p>
 
 
 ###
@@ -20,7 +19,7 @@
 
 ###
 
-<p align="left">🥂CLI isn't boring after all.<br>📚 I'm currently learning Python, Advanced Java.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact:“Hello, World!” has been greeting programmers since 1978.</p>
+<p align="left">🥂CLI isn't boring after all.<br>🌱 I'm currently learning Python, Advanced Java.<br>🎯Goal: Design software that values simplicity, clarity, and minimal dependencies.<br>🎲 Fun fact:“Hello, World!” has been greeting programmers since 1978.</p>
 
 ###
 
@@ -88,13 +87,6 @@
 
 ###
 
-<div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=beeplap&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<div align="left">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=beeplap&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
 
 <div align="left">
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beeplap&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
