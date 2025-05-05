@@ -72,8 +72,9 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=for-the-badge&logo=tailwind-css" height="" alt="tailwind logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="" alt="react logo"  />
+  <img src="https://img.shields.io/badge/-ReactJs-00599C?logo=react&logoColor=white&style=for-the-badge" alt="react logo" />
   <img width="0" />
+
   
 </div>
 
