@@ -70,6 +70,10 @@
    <img width="0" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="" alt="java logo"  />
   <img width="0" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=for-the-badge&logo=tailwind-css" height="" alt="tailwind logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="" alt="react logo"  />
+  <img width="0" />
   
 </div>
 
