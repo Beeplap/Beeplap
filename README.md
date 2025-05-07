@@ -28,6 +28,7 @@
 ###
 
 <div align="left">
+  
   <a href="https://www.facebook.com/profile.php?id=100069332372121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
   <a href="https://www.instagram.com/beeplap___/" target="_blank">
@@ -46,6 +47,10 @@
 ###
 
 <div align="left">
+  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="VS Code logo" />
+
+  <img width="0" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="" alt="c logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="" alt="javascript logo"  />
@@ -53,8 +58,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="" alt="cplusplus logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="" alt="linux logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="" alt="vim logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="" alt="python logo"  />
   <img width="0" />
