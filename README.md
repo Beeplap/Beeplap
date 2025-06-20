@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+Beeplap+👋;Welcome+to+my+GitHub+profile;I'm+tech+enthusiast;who+loves+to+break+codes!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+Beeplap+👋;Welcome+to+my+GitHub+profile;A+tech+enthusiast+⚡;Breaking+code+to+build+dreams!" alt="Typing SVG" />
 </p>
 
 
@@ -12,6 +12,12 @@
 
 
 <p align="left">I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code.</p>
+
+<p align="center">
+  <a href="https://link-to-your-resume.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Resume PDF Badge" />
+  </a>
+</p>
 
 ###
 
@@ -96,8 +102,9 @@
 ###
 
 
-<div align="left">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beeplap&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeplap&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+
 </div>
 
 ###
