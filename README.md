@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🥂CLI isn't boring after all.<br>🌱 I'm currently learning Reactjs, Tailwindcss.<br>🎯Goal: Design software that values simplicity, clarity, and minimal dependencies.<br>🎲 Fun fact:“Hello, World!” has been greeting programmers since 1978.</p>
+<p align="left">🥂CLI isn't boring after all.<br>🌱 I'm currently learning Python, NumPy.<br>🎯Goal: Design software that values simplicity, clarity, and minimal dependencies.<br>🎲 Fun fact:“Hello, World!” has been greeting programmers since 1978.</p>
 
 ###
 
