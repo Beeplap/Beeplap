@@ -77,6 +77,13 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/-ReactJs-00599C?logo=react&logoColor=white&style=for-the-badge" alt="react logo" />
   <img width="0" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts logo" />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="nodejs logo" />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="php logo" />
+  <img width="0" />
+
 
   
 </div>
