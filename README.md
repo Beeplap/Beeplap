@@ -83,6 +83,8 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="php logo" />
   <img width="0" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next js" />
+  <img width="0" />
 
 
   
