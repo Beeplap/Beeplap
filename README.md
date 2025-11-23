@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Beeplap+👋;Tech+Enthusiast+%26+Learner;Code+Explorer+%7C+Python+%26+JS;Building+Simple+Software&center=true&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Beeplap+👋;&center=true&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
 
@@ -53,10 +53,7 @@ I am an open-source enthusiast and dedicated programmer with a passion for craft
 
 ---
 
-### Contributions
-<img src="https://raw.githubusercontent.com/beeplap/beeplap/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
 
----
 
 ### Stats
 <div align="left">
