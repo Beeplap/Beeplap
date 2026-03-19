@@ -53,7 +53,10 @@ I am an open-source enthusiast and dedicated programmer with a passion for craft
 
 ---
 
-
+### 📈 Contribution Activity
+<p align="center">
+  <img src="./graph.svg" alt="3D Contribution Graph" />
+</p>
 
 ### Stats
 <div align="left">
