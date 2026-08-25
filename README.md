@@ -25,7 +25,7 @@ I am an open-source enthusiast and dedicated programmer with a passion for craft
   <a href="https://www.facebook.com/profile.php?id=100069332372121" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/beeplap___/" target="_blank">
+  <a href="https://www.instagram.com/beeplapgm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/beeplap-gharti-magar-5027592b9/" target="_blank">
